@@ -1,3 +1,4 @@
+# Синий круг
 import arcade
 
 width = 600
