@@ -18,3 +18,5 @@ arcade.draw_circle_filled(width / 2, height / 2, radius, arcade.color.BLUE)
 
 arcade.finish_render()
 arcade.run()
+
+# p.s dimon
